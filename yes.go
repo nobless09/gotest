@@ -2,6 +2,7 @@ package yes
 
 import "fmt"
 
+// Yes ...
 func Yes() {
-	fmt.Printf("Main of module.")
+	fmt.Printf("Yes")
 }

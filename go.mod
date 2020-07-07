@@ -1,3 +1,3 @@
-module github.com/nobless09/gotest
+module github.com/nobless09/test
 
 go 1.14
