@@ -1,7 +1,7 @@
-package main
+package yes
 
 import "fmt"
 
-func main() {
+func Yes() {
 	fmt.Printf("Main of module.")
 }
